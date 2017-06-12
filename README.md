@@ -9,5 +9,5 @@ Please remember that this data is still the property of Adam Baker.
 
 ### Using the sample data
 
-Just download the ZIP file from the releases page and unpack it in the root directory of our framework.
+Just download the ZIP files from the releases page and unpack it in the root directory of our framework.
 Running the framework will then create a PCA model.
